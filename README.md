@@ -1,2 +1,2 @@
 # protractor
-Measure angles and distance in images or in non-image axes
+Measure angles and distances in images or in non-image axes
